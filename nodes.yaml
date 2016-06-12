@@ -1,0 +1,13 @@
+---
+- name: box1
+  box: centos7_x64
+  ram: 512
+  ip: 172.17.8.101
+- name: box2
+  box: centos7
+  ram: 512
+  ip: 172.17.8.102
+#- name: box3
+#  box: centos7
+#  ram: 512
+#  ip: 172.17.8.103
